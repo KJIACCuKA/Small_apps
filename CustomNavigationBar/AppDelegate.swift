@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CollectionViewDragAndDrop
+//  CustomNavigationBar
 //
 //  Created by Никита Козловский on 28.09.2024.
 //
