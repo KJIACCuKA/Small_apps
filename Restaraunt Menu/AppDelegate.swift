@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CollectionViewDragAndDrop
+//  Restaraunt Menu
 //
-//  Created by Никита Козловский on 28.09.2024.
+//  Created by Никита Козловский on 29.09.2024.
 //
 
 import UIKit
